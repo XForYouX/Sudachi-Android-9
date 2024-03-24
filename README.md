@@ -1,3 +1,13 @@
+~~~
+
+# Dont Like My Build ? Dont Use & Use Official Release
+# Sudachi Requirement Official ( Android 11-14 )
+# Sudachi Requirement Build Me ( Android 9 - 14 ) ( Recommaned Android 10 )
+# My Share For Free & I Follow Latest Update From Sudachi Official
+# I Dont Open Donate ( You Can Donate From Official Developer )
+# Im Helper You Build For Android 10
+~~~
+
 # Official Releases
 - **[All Releases](https://github.com/sudachi-emu/sudachi/releases)**
 - **[Latest Release](https://github.com/sudachi-emu/sudachi/releases/latest)**
