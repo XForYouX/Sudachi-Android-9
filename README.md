@@ -8,6 +8,8 @@
 # Im Helper You Build For Android 10
 ~~~
 
+# Full Changelog EA V.1
+- **[EA V.1]()
 # Official Releases
 - **[All Releases](https://github.com/sudachi-emu/sudachi/releases)**
 - **[Latest Release](https://github.com/sudachi-emu/sudachi/releases/latest)**
